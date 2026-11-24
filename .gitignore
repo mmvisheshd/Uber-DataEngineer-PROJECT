@@ -11,4 +11,5 @@ wheels/
 
 .env
 
-not_for_you/
+not_for_you/.env
+.venv312/
